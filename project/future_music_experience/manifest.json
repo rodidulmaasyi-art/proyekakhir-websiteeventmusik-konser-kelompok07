@@ -1,0 +1,15 @@
+{
+  "name": "Future Music Experience",
+  "short_name": "FutureMusic",
+  "start_url": "index.php",
+  "display": "standalone",
+  "background_color": "#06091f",
+  "theme_color": "#7c3cff",
+  "icons": [
+    {
+      "src": "assets/img/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
